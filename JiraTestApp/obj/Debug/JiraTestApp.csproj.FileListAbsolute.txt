@@ -1,0 +1,9 @@
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\JiraTestApp.exe.config
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\JiraTestApp.exe
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\JiraTestApp.pdb
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\Newtonsoft.Json.dll
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\RestSharp.dll
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\bin\Debug\Newtonsoft.Json.xml
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\obj\Debug\JiraTestApp.exe
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\obj\Debug\JiraTestApp.pdb
+C:\Git Directory\reporting\JiraDataExport\JiraTestApp\obj\Debug\JiraTestApp.csprojResolveAssemblyReference.cache
